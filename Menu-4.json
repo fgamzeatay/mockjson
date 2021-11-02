@@ -1,5 +1,5 @@
 [{"restaurantId": 1,
-  "categories":[
+  "categories": [ 
   {
     "id": "26576",
     "name": "Kahvaltı",
@@ -222,8 +222,7 @@
 },
   {
     "restaurantId": 2,
-    "categories":
-  [{
+    "categories": [{
     "id": "26576",
     "name": "Aperatifler",
     "position": "0",
